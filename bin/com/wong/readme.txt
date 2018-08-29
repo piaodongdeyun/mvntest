@@ -1,0 +1,1 @@
+To run the project, you need to import the jar selenium-server-standalone-2.53.0.jar .
